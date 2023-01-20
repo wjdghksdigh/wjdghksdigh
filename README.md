@@ -2,6 +2,7 @@
 
 <h2 align="center"&fontColor=90A17D > welcome to my HubFarm🌱 </h2>
 <br><br>
+
 <h3 align="center"> let me introduce myself👨🏽‍💻 </h3>
 <p align="center">
   <a href="https://www.notion.so/ca63671babaf4ebc8223aec6eabc85c0" target="_blank">
@@ -10,7 +11,21 @@
   <a href="https://hwantech.tistory.com/" target="_blank">
   <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=GitHub&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-  
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> 
 </p>
-Tistory
+<br>
+
+  ##  Tech Stack ⛏
+  Techs that I've used at least once
+  
+  <p align="center"> 
+  <img src="https://img.shields.io/badge/React.js-00CEF1?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
+   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=html5&logoColor=white"/></a>&nbsp 
+    <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
+    
+  <br>
+    <img src="https://img.shields.io/badge/node.js-4479A1?style=flat-square&logo=node.js&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
+</p>
