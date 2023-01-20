@@ -15,7 +15,7 @@
 
 <div align="center" style="text-align:center">
 
-[![Tistory Badge](https://tistory-readme-stats.vercel.app/api/badge?name=hwantech)](https://hwantech.tistory.com/177)
+[![Post Card](https://tistory-readme-stats.vercel.app/api?name=hwantech&postId=177)](https://hwantech.tistory.com/177)
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=inryu&tag=openapi)](https://velog.io/@inryu/React-Native-API-fetch-Opne-API-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-async-await)
 
 </div>
