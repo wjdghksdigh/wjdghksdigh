@@ -16,7 +16,7 @@
 <div align="center" style="text-align:center">
 
 [![Post Card](https://tistory-readme-stats.vercel.app/api?name=hwantech&postId=177)](https://hwantech.tistory.com/177)
-[![Post Card](https://tistory-readme-stats.vercel.app/api?name=hwantech&postId=146)](https://hwantech.tistory.com/146)
+[![Post Card](https://tistory-readme-stats.vercel.app/api?name=hwantech&postId=159)](https://hwantech.tistory.com/159)
 
 
 </div>
