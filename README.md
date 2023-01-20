@@ -2,5 +2,7 @@
 
 <h2 align="center"&fontColor=90A17D > welcome to my HubFarm🌱 </h2>
 <br><br>
-<h3 align="center"> let me introduce myself </h3>
-<img src="https://img.shields.io/badge/Notion-181717?style=flat-square&logo=Notion&logoColor=white"/>
+<h3 align="center"> let me introduce myself👨🏽‍💻 </h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Notion-181717?style=flat-square&logo=Notion&logoColor=white"/> 
+</p>
