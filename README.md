@@ -11,22 +11,14 @@
   <img src="https://img.shields.io/badge/Notion-181717?style=flat-square&logo=Notion&logoColor=white"/> 
   </a>
   </p><br>
-  <h3 align="center">  Blog  </h3>
+  <h3 align="center">  Blog ✍🏼 </h3>
 
 <div align="center" style="text-align:center">
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=inryu&tag=reactnative)](https://velog.io/@inryu/React-Native-%EC%B9%B4%EB%A9%94%EB%9D%BC%EB%A1%9C-%EB%AC%B8%EC%84%9C-%EC%8A%A4%EC%BA%94%ED%95%98%EA%B8%B0)
+[![Tistory Badge](https://tistory-readme-stats.vercel.app/api/badge?name=hwantech)](https://hwantech.tistory.com/177)
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=inryu&tag=openapi)](https://velog.io/@inryu/React-Native-API-fetch-Opne-API-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-async-await)
 
 </div>
-
-<br>
-  <p>
-  <a href="https://hwantech.tistory.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Tistory-007ACC?style=flat-square&logo=GitHub&logoColor=white"/>
-  </a>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> 
-</p>
 <br>
 <h3 align="center">  Tech Stack ⛏  </h3>
   
