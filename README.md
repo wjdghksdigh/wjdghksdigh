@@ -3,7 +3,7 @@
 <h2 align="center"&fontColor=90A17D > welcome to my HubFarm 🌱 </h2>
 <br><br>
 
-<h3 align="center"> let me introduce myself 👨🏽‍💻 </h3><br>
+<h3 align="center"> let me introduce myself 👨🏽‍💻 </h3>
 <p align="center">Please click below 👇🏼👇🏼</p>
 <p align="center">
   <a href="https://www.notion.so/ca63671babaf4ebc8223aec6eabc85c0" target="_blank">
