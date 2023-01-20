@@ -3,4 +3,4 @@
 <h2 align="center"&fontColor=90A17D > welcome to my HubFarm🌱 </h2>
 <br><br>
 <h3 align="center"> let me introduce myself </h3>
-![MyNotion](https://www.notion.so/ca63671babaf4ebc8223aec6eabc85c0)
+
