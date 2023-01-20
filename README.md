@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Notion-181717?style=flat-square&logo=Notion&logoColor=white"/> 
   </a>
   <a href="https://hwantech.tistory.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=GitHub&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tistory-007ACC?style=flat-square&logo=GitHub&logoColor=white"/>
   </a>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> 
 </p>
