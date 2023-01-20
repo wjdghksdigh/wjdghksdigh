@@ -7,4 +7,10 @@
   <a href="https://www.notion.so/ca63671babaf4ebc8223aec6eabc85c0" target="_blank">
   <img src="https://img.shields.io/badge/Notion-181717?style=flat-square&logo=Notion&logoColor=white"/> 
   </a>
+  <a href="https://hwantech.tistory.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=GitHub&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+  
 </p>
+Tistory
