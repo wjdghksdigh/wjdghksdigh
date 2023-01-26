@@ -2,7 +2,6 @@
 
 <h2 align="center"&fontColor=90A17D > welcome to my HubFarm 🌱 </h2>
 
-<h3 align="center"> let me introduce myself 👨🏽‍💻 </h3>
 <br>
 <h3 align="center">My Portfolio📑</h3>
 <p align="center">Please click below 👇🏼👇🏼</p>
