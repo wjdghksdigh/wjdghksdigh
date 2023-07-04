@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=90A17D&height=200&section=header&text=hwantech🍵&fontSize=90&fontColor=EEEEEE)
+![header](https://capsule-render.vercel.app/api?type=waving&color=90A17D&height=200&section=header&text=hwantech&fontSize=90&fontColor=EEEEEE)
 
 <br>
 
